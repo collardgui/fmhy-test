@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract the French section from the FMHY Non-Eng wiki page."""
+"""Extract FMHY's French and Live TV sections."""
 
 from __future__ import annotations
 
@@ -9,8 +9,11 @@ import urllib.request
 from pathlib import Path
 
 SOURCE_URL = "https://raw.githubusercontent.com/wiki/fmhy/FMHY/Non-Eng.md"
+STREAMING_SOURCE_URL = "https://raw.githubusercontent.com/wiki/fmhy/FMHY/Streaming.md"
 SECTION_START = re.compile(r"^#\s+►\s+(?:French|Français)\s*/\s*(?:Français|French)\s*$", re.IGNORECASE)
 SECTION_END = re.compile(r"^#\s+►\s+", re.IGNORECASE)
+LIVE_TV_START = re.compile(r"^##\s+▷\s+Live TV\s*$", re.IGNORECASE)
+SUBSECTION_END = re.compile(r"^##\s+", re.IGNORECASE)
 
 
 def fetch_source(url: str = SOURCE_URL) -> str:
@@ -35,18 +38,37 @@ def extract_french_section(markdown: str) -> str:
     return section + "\n"
 
 
+def extract_live_tv_section(markdown: str) -> str:
+    lines = markdown.splitlines()
+    start = next((index for index, line in enumerate(lines) if LIVE_TV_START.match(line.strip())), None)
+    if start is None:
+        raise ValueError("Live TV section not found in the FMHY Streaming wiki")
+
+    end = next(
+        (index for index in range(start + 1, len(lines)) if SUBSECTION_END.match(lines[index].strip())),
+        len(lines),
+    )
+    section = "\n".join(lines[start:end]).strip()
+    if not section:
+        raise ValueError("Live TV section is empty")
+    return section + "\n"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--output", type=Path, default=Path("docs/index.md"))
     parser.add_argument("--source", default=SOURCE_URL)
     args = parser.parse_args()
 
-    output = extract_french_section(fetch_source(args.source))
+    french_section = extract_french_section(fetch_source(args.source))
+    live_tv_section = extract_live_tv_section(fetch_source(STREAMING_SOURCE_URL))
+    output = french_section + "\n" + live_tv_section
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(
         "# FMHY - French\n\n"
         "Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)\n\n"
-        f"{output}",
+        f"{output}"
+        "Source: [FMHY Streaming wiki](https://github.com/fmhy/FMHY/wiki/Streaming)\n\n",
         encoding="utf-8",
     )
     print(f"Wrote {args.output}")
