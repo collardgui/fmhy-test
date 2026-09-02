@@ -62,7 +62,7 @@ def main() -> None:
 
     french_section = extract_french_section(fetch_source(args.source))
     live_tv_section = extract_live_tv_section(fetch_source(STREAMING_SOURCE_URL))
-    output = french_section + "\n" + live_tv_section
+    output = french_section + "\n# ► Live TV / Sports\n\n" + live_tv_section
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(
         "# FMHY - French\n\n"
