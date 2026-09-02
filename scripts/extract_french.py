@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Extract FMHY's French and Live TV sections."""
+"""Extract FMHY's French, Live TV, and Live Sports sections."""
 
 from __future__ import annotations
 
@@ -13,6 +13,7 @@ STREAMING_SOURCE_URL = "https://raw.githubusercontent.com/wiki/fmhy/FMHY/Streami
 SECTION_START = re.compile(r"^#\s+►\s+(?:French|Français)\s*/\s*(?:Français|French)\s*$", re.IGNORECASE)
 SECTION_END = re.compile(r"^#\s+►\s+", re.IGNORECASE)
 LIVE_TV_START = re.compile(r"^##\s+▷\s+Live TV\s*$", re.IGNORECASE)
+LIVE_SPORTS_START = re.compile(r"^##\s+▷\s+Live Sports\s*$", re.IGNORECASE)
 SUBSECTION_END = re.compile(r"^##\s+", re.IGNORECASE)
 
 
@@ -38,11 +39,11 @@ def extract_french_section(markdown: str) -> str:
     return section + "\n"
 
 
-def extract_live_tv_section(markdown: str) -> str:
+def extract_subsection(markdown: str, start_pattern: re.Pattern[str], label: str) -> str:
     lines = markdown.splitlines()
-    start = next((index for index, line in enumerate(lines) if LIVE_TV_START.match(line.strip())), None)
+    start = next((index for index, line in enumerate(lines) if start_pattern.match(line.strip())), None)
     if start is None:
-        raise ValueError("Live TV section not found in the FMHY Streaming wiki")
+        raise ValueError(f"{label} section not found in the FMHY Streaming wiki")
 
     end = next(
         (index for index in range(start + 1, len(lines)) if SUBSECTION_END.match(lines[index].strip())),
@@ -50,7 +51,7 @@ def extract_live_tv_section(markdown: str) -> str:
     )
     section = "\n".join(lines[start:end]).strip()
     if not section:
-        raise ValueError("Live TV section is empty")
+        raise ValueError(f"{label} section is empty")
     return section + "\n"
 
 
@@ -61,8 +62,10 @@ def main() -> None:
     args = parser.parse_args()
 
     french_section = extract_french_section(fetch_source(args.source))
-    live_tv_section = extract_live_tv_section(fetch_source(STREAMING_SOURCE_URL))
-    output = french_section + "\n# ► Live TV / Sports\n\n" + live_tv_section
+    streaming_source = fetch_source(STREAMING_SOURCE_URL)
+    live_tv_section = extract_subsection(streaming_source, LIVE_TV_START, "Live TV")
+    live_sports_section = extract_subsection(streaming_source, LIVE_SPORTS_START, "Live Sports")
+    output = french_section + "\n# ► Live TV / Sports\n\n" + live_tv_section + "\n" + live_sports_section
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(
         "# FMHY - French\n\n"
