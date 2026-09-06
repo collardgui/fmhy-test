@@ -131,7 +131,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [⁠FreeTVGarden](https://freetvgarden.com/) - TV / Sports / Globe Style
 * [Watchott Live](https://iptv.watchott.org/) - TV / Sports / PW: `FREE-MEDIA` / [Discord](https://discord.gg/JurgbRCnR)
-* [SportOnTV](https://sportontv.click/) - TV / Sports / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [HOOFOOT](https://hoofoot.ru/iptv/) - TV / Sports
 * [xyzstreams](https://xyzstreams.st/) - TV / Sports
 * [⁠OpStream Live](https://opstream.fun/live) - TV / Sports
@@ -153,11 +152,11 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [VaughnLive](https://vaughn.live/browse/misc) - Random Streams
 * [React.tv](https://react.tv/) - Random Streams
 * [psp-tv](http://sync.coconono.org) - Random Streams
-* [Baked](https://baked.live/) - Random Streams / [Discord](https://discord.com/invite/baked)
+* [Baked.live](https://baked.live/) - Random Streams / [Discord](https://discord.com/invite/baked)
 * [Channel 99](https://www.pracdev.org/channel99/) - Random Streams
 * [EXP TV](https://linktr.ee/exp.tv) - Rare / Vintage / Obscure Media Stream
 * [YTCH](https://ytch.tv/), [Channel Surfer](https://channelsurfer.tv/) or [FreeTVz](https://freetvz.com/) - Random TV Style YouTube / Custom Channels
-* [TV.Jest](https://tv.jest.one/), [Split TV](https://split-tv.co.il/) or [WorldNews24](https://worldnews24.tv/) - News
+* [TV.Jest](https://tv.jest.one/) or [WorldNews24](https://worldnews24.tv/) - News
 * [SHOWROOM](https://showroom-live.com/) - Live Performance Broadcasts
 * [Koryo TV](https://koryo.tv/) or [KCNA](https://kcnawatch.us/korea-central-tv-livestream) - North Korean Live TV
 
@@ -175,7 +174,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[TimStreams](https://timstreams.st/)**, [2](https://timst.cfd/) - Live Events / [Discord](https://discord.com/invite/p3aJ7rJGrz)
 * ⭐ **[SportsindX](https://sportsindx.st/)** or [WatchSports](https://watchsports.st/) - Stream Aggregator / [Discord](https://discord.gg/WGHrq6UzRb)
 * ⭐ **[StreamSports99](https://streamsports99.ru)** / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
-* ⭐ **[RoxieStreams](https://roxiestreams.su/)**, [2](https://roxiestreams.info/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.com/invite/JhkVmejRmn)
+* ⭐ **[RoxieStreams](https://roxiestreams.su/)**, [2](https://roxiestreams.info/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/umQC45SubZ)
 * ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) - Stream Aggregator / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[BINTV](https://www.bintv.cc/)**, [2](https://cosectv.com/) - Stream Aggregator / [Status](https://www.bintv.link/) / [Telegram](https://t.me/+PiQ1lsDtjoU5NmFl) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * ⭐ **[Watch Footy](https://watchfooty.st/)** - Stream Aggregator / [Mirrors](https://wfty.link/) / [Discord](https://discord.gg/T38kUWZHtB)
@@ -184,6 +183,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[WatchSports(su)](https://watchsports.su/)** - Stream Aggregator
 * ⭐ **[DaddyLive](https://dlhd.st/)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 * ⭐ **[LiveTV](https://livetv.sx/enx/)**
+* [⁠Futbol-X](https://www.futbol-x.xyz/) - Live Events / [Discord](https://discord.gg/UzHzerb6XY)
 * [HOOFOOT](https://hoofoot.ru/iptv/schedule) - Stream Aggregator
 * [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
 * [Reedstreams](https://reedstreams.cc/), [2](https://reedstreams.watch/), [3](https://reedstreams.ws/) - Stream Aggregator / [Status](https://reedstreams.link/) / [Discord](https://discord.gg/fGfgxcnXUv)
@@ -198,22 +198,23 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [FSL](https://freestreams-live1a.pk/) - Stream Aggregator / [Discord](https://discord.gg/eXXJzDPchU)
 * [⁠1Ball](https://1ball.pk/) - Stream Aggregator / [Discord](https://discord.gg/CG8NzyX2hU)
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/) / [Mirrors](https://v2.gostreameast.link/)
-* [StreamCorner](https://streamcorner.st/), [2](https://streamcorner.foo/), [3](https://streamcorner.cloud/), [4](https://streamcorner.fun/) or [StreamNinja](https://streamninja.cloud/), [2](https://streamninja.fun/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
+* [StreamCorner](https://streamcorner.st/), [2](https://streamcorner.foo/), [3](https://streamcorner.cloud/), [4](https://streamcorner.fun/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
 * [⁠Streami](https://streamic.st/) / [Status](https://rentry.co/Streami)
-* [Mutch](https://mutch.st/) or [Pitsport](https://pitsport.live/)
+* [SportOnTV](https://sportontv.click/) - TV / Sports / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [⁠FalconStreams](https://falconstreams.app/) / [Discord](https://discord.gg/FPgKwtXcYV)
 * [⁠VenueVault](https://venuevault.live/) / [Discord](https://discord.gg/QfaRFbQTPW)
-* [⁠Palco](https://palco.wtf/) / [Discord](https://discord.com/invite/palco)
 * [xyzstreams](https://xyzstreams.st/)
-* [Guide TV](https://guidetv.live/)
 * [CricHD](https://crichd.at/)
 * [TheTVApp](https://tvapp.ws/)
 * [MainPortal66](https://mainportal66.com/)
 * [⁠FCTV33](https://www.fctv33.lat/), [2](https://emmau680.driveraudiencej2zeu49.sbs/) / [Telegram](https://t.me/madplay77_b)
 * [VIP Box Sports](https://vipleague.vg/), [2](https://olympicstreams.im/), [3](https://fbstream.cc/) / [Mirrors](https://rentry.co/VIPSportsBox)
 * [FawaNews](http://www.fawanews.sc/)
+* [Baked.live](https://baked.live/) - MMA / Wrestling / [Discord](https://discord.com/invite/baked)
+* [Guide TV](https://guidetv.live/) - Football
 * [NBAMonster](https://nbamonster.com/) - Basketball / Aggregator
 * [OnHockey](https://onhockey.tv/) - Hockey / Aggregator
+* [Pitsport](https://pitsport.live/) - Motorsports
 * [OvertakeFans](https://overtakefans.com/) - Motorsports
 * [F1 Live](https://f1live.dpdns.org/) - Motorsports
 * [NontonGP](https://esp32.nontonx.com/) - Motorcycle Racing
