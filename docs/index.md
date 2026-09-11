@@ -188,7 +188,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [xyzstreams](https://xyzstreams.st/)
 * [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/), [3](https://www.futbol-x.sryze.cc/) - Live Events   [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
 * [HOOFOOT](https://hoofoot.ru/iptv/schedule) - Stream Aggregator
-* [Sportsurge](https://v2.sportsurge.net/home5/) - Stream Aggregator
+* [Sportsurge](https://v2.sportsurge.net/) - Stream Aggregator
 * [Reedstreams](https://reedstreams.cc/), [2](https://reedstreams.watch/), [3](https://reedstreams.ws/) - Stream Aggregator / [Status](https://reedstreams.link/) / [Discord](https://discord.gg/fGfgxcnXUv)
 * [TotalSportek](https://totalsportek.st/), [Score808](https://score808hd.tv/) or [Sportsurge.st](http://sportsurge.st/) - Stream Aggregator / [Discord](https://discord.com/invite/mdEsarNMyF)
 * [zlive](https://zlive.st/)
