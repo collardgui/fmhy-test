@@ -50,7 +50,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [Movix](https://movix.chat/) - Movies / TV / Anime / Use Adblocker / [Status](https://movix.online/) / [GitHub](https://github.com/movixcorp/MovixOpenSource)
 * [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub / [Status](https://t.me/+gBSyUOO_3D1mZDZk)
-* [nakastream](https://nakastream.tv/) - Movies / TV / Anime / [Status](https://nakastream.wiki/) / [Telegram](https://t.me/nakastreamtv) / [Discord](https://discord.gg/SMyrCzWnhV)
+* [nakastream](https://nakastream.tv/) - Movies / TV / Anime / Invites in Discord / [Status](https://nakastream.wiki/) / [Telegram](https://t.me/nakastreamtv) / [Discord](https://discord.gg/SMyrCzWnhV)
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
@@ -117,6 +117,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 
 * 🌐 **[TVCL](https://www.tvchannellists.com/)** - TV Channel Index
 * ⭐ **[NTV](http://ntv.st/)**, [2](https://ntvs.cx/) - TV / Sports / Aggregator / [Mirrors](https://ntvx.link/) / [Discord](https://discord.gg/uY3ud5gcpW)
+* ⭐ **[zlive](https://zlive.st/)** - TV / Sports
 * ⭐ **[StreamSports99](https://streamsports99.ru/live-tv)** - TV / Sports / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
 * ⭐ **[DaddyLive TV](https://dlive.sx/24-7-channels.php)**, [2](https://daddylive.pk/) - TV / Sports / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 * ⭐ **[Famelack](https://famelack.com/)** - TV / Sports / Globe Style
@@ -126,7 +127,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [kool.to](https://kool.to/), [huhu.to](https://huhu.to/), [vavoo.to](https://vavoo.to/) or [oha.to](https://oha.to/) - TV / Sports / European
 * [Live24](https://livelive24.com/) - TV / Sports
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
-* [zlive](https://zlive.st/) - TV / Sports
 * [⁠TVNow](https://tvnow.st/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [DamiTV](https://damitv.st//livetv) or [90minutes](https://www.90minutes.pro/) - TV / Sports
