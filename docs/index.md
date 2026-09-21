@@ -137,7 +137,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [⁠OpStream Live](https://opstream.fun/live) - TV / Sports
 * [⁠TV Explorer](https://tvexplorer.live/) - TV / Sports
 * [TV247US](https://tvnow247.top/) - TV / Sports
-* [Heartive](https://heartivelovestv.pages.dev/live/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
 * [WatchTVs](https://watchtvs.live/) - TV
 * [Rive](https://www.rivestream.app/iptv), [2](https://rivestream.ru/iptv) - TV / Sports / [Discord](https://discord.com/invite/6xJmJja8fV)
