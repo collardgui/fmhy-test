@@ -71,7 +71,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [DocStream](https://docstream.fr/) - Documentaries / [Discord](https://discord.gg/3hUpCrHuf)
 * [Voiranime](https://voir-anime.to/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
-* [AnimeSultra](https://animesultra.org/) - Anime / Sub / 1080p / [Telegram](https://t.me/animesultranet)
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
 * [anime-sama](https://anime-sama.tv/), [2](https://anime-sama.pw/) - Anime
 * [French Anime](https://french-anime.com/) - Anime / Sub / 1080p
@@ -209,7 +208,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Reedsports](https://reedstreams.to/)
 * [MainPortal66](https://mainportal66.com/)
 * [⁠FCTV33](https://www.fctv33hd.bar/), [2](https://emmau680.driveraudiencej2zeu49.sbs/) / [Telegram](https://t.me/madplay77_b)
-* [VIP Box Sports](https://vipleague.vg/), [2](https://olympicstreams.im/), [3](https://fbstream.cc/) / [Mirrors](https://rentry.co/VIPSportsBox)
+* [VIP Box Sports](https://vipleague.vg/), [2](https://olympicstreams.im/), [3](https://fbstream.cc/) / [Mirrors](https://rentry.co/vipbox-mirrors)
 * [FawaNews](http://www.fawanews.sc/)
 * [Baked.live](https://baked.live/) - MMA / Wrestling / [Discord](https://discord.com/invite/baked)
 * [Guide TV](https://guidetv.live/) - Football
