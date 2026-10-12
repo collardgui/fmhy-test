@@ -42,7 +42,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
-* [yablom](https://yablom.com/), [ILMIV](https://ilmiv.com/), [kidraz](https://www.kidraz.com/), [Kordoz](https://www.kordoz.com/) or [Ofraz](https://ofraz.com/) - Movies / TV / Anime
+* [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
@@ -66,7 +66,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Télé-Québec](https://www.telequebec.tv/) - Québec Public Broadcaster / Movies / TV / Docs / Requires Sign-Up
 * [TV5+](https://www.tv5plus.ca/) - Multiple Broadcasters / Movies / TV / Docs / No Sign-Up Required
 * [TFO](https://www.tfo.org/) - Ontario French Public Broadcaster / Movies / TV / Docs / Anime / No Sign-Up Required
-* [DocStream](https://docstream.fr/) - Documentaries / [Discord](https://discord.gg/3hUpCrHuf)
+* [DocStream](https://docstream.fr/) - Documentaries
 * [Voiranime](https://voir-anime.to/) - Anime / Sub / 1080p
 * [FRAnime](https://franime.fr/) - Anime / Sub / 1080p
 * [vostfree](https://vostfree.ws/) - Anime / Sub / 1080p
@@ -165,7 +165,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [⁠StreamFree](https://streamfree.top/), [2](https://strmfree.st/) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * [WatchSports(su)](https://watchsports.su/)
-* [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.pl/) / [Status](https://strumyk.domains/)
+* [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.pl/), [2](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
 * [BINTV](https://www.bintv.cc/), [2](https://cosectv.com/) / [Status](https://www.bintv.link/) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * [⁠AuraSports](https://aurasports.xyz/)
@@ -183,14 +183,14 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [⁠Matchora](https://matchora.to/)
 * [TotalSportek](https://total-sportekk.st/) or [Sportsurge.st](https://ww1.sportsurge.st/) / [Discord](https://discord.com/invite/mdEsarNMyF)
 * [Tap4Sport](https://tap4sport.st/), [2](https://tap4sport.ci/), [3](https://tap4sport.pw/) / [Status](http://tap4sport.link/) / [TG](https://t.me/+LWp6SUzrbVUwZjE0)
-* [⁠CMVTV](https://cmvlinks.lovable.app/) / [Status](https://cmvwd.lovable.app/) / [Telegram](https://t.me/cricketmemesverse)
+* [⁠CMVTV](https://cmvlr.lovable.app/) / [Status](https://cmvwd.lovable.app/) / [Telegram](https://t.me/cricketmemesverse)
 * [⁠Fantastic Soda](https://fantasticsoda.com/)
 * [FSL](https://freestreams-live1h.pk/) / [Discord](https://discord.gg/eXXJzDPchU)
 * [⁠Streami](https://streamic.st/) / [Status](https://rentry.co/Streami)
 * [SportOnTV](https://sportontv.click/) / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [⁠FalconStreams](https://falconstreams.app/) / [Discord](https://discord.gg/FPgKwtXcYV)
-* [⁠VenueVault](https://venuevault.live/) / [Discord](https://discord.gg/QfaRFbQTPW)
 * [CricHD](https://crichd.at/)
+* [⁠VenueVault](https://venuevault.live/) / [Discord](https://discord.gg/QfaRFbQTPW)
 * [TheTVApp](https://thetvapp.plus/)
 * [Reedsports](https://reedstreams.to/)
 * [MainPortal66](https://mainportal66.com/)
