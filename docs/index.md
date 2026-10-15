@@ -45,7 +45,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
-* [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.gg/MadMF7xb5q)
+* [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Nex / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
 * [dulourd](https://www.dulourd.boo/) - Movies / TV 
 * [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub
 * [nakastream](https://nakastream.wiki/) - Movies / TV / Anime / Invites in Discord / [Status](https://nakastream.wiki/) / [Telegram](https://t.me/nakastreamtv)
@@ -54,7 +54,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
 * [Stigstream](https://stigstream.ru/) - Movies / TV / Anime / Auto-Next
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
-* [cinestream](https://cinestream.info/) - Movies / TV / Anime
 * [1jour1film0626](https://1jour1film0926.cyou/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integrale.com/) - Movies / TV / Anime
@@ -118,8 +117,8 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[EasyWebTV](https://zhangboheng.github.io/Easy-Web-TV-M3u8/routes/tv.html)** or [IPTV Web](https://iptv-web.app/) - TV / Sports
 * ⭐ **[SportsBite TV](https://sportsbite.org/channels)**, [2](https://sportsbite.org/channels) - TV / Sports / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [TitanTV](https://titantv.com/) - Live TV Listings / TV Schedule
-* [kool.to](https://kool.ws/), [huhu.to](https://huhu.to/), [vavoo.to](https://vavoo.to/) or [oha.to](https://oha.to/) - TV / Sports / European
 * [Cinevid](https://cinevid.st/channels) - TV / Sports
+* [kool.to](https://kool.ws/), [huhu.to](https://huhu.to/), [vavoo.to](https://vavoo.to/) or [oha.to](https://oha.to/) - TV / Sports / European
 * [Live24](https://livelive24.com/), [2](https://livelive24.st/) - TV / Sports
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
 * [⁠TVNow](https://tvnow.st/) - TV / Sports
@@ -129,6 +128,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [⁠FreeTVGarden](https://freetvgarden.com/) - TV / Sports / Globe Style
 * [Watchott Live](https://iptv.watchott.org/) - TV / Sports / PW: `FREE-MEDIA`
 * [xyzstreams](https://xyzstreams.st/) - TV / Sports
+* [Binged](https://binged.net/) / [Beta](https://binged.net/beta) - TV / Sports
 * [⁠TV Explorer](https://tvexplorer.live/) - TV / Sports
 * [TV247US](https://tvnow247.top/) - TV / Sports
 * [CXtv](https://www.cxtvlive.com/) - TV / Sports
@@ -167,18 +167,19 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.pl/), [2](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
+* [Cinevid](https://cinevid.st/events)
 * [BINTV](https://www.bintv.cc/), [2](https://cosectv.com/) / [Status](https://www.bintv.link/) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * [⁠AuraSports](https://aurasports.xyz/)
-* [Cinevid](https://cinevid.st/events)
 * [Watch Footy](https://watchfooty.st/) / [Mirrors](https://wfty.link/)
 * [NTV](https://ntv.cx/), [2](https://ntvs.cx/) / [Discord](https://discord.gg/uY3ud5gcpW)
 * [LiveTV](https://livetv.sx/enx/)
 * [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/)
+* [Binged](https://binged.net/) / [Beta](https://binged.net/beta)
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)
 * [DaddyLiveHD](https://daddylive.mov/), [2](https://daddylive.app/), [3](https://daddylive.li/) / [Mirrors](https://rentry.co/daddylivehd) / [Telegram](https://t.me/addlist/khVpZrgJToIxNTJl) / [Discord](https://discord.gg/qc4jksxk7a)
 * [Reedstreams](https://reedstreams.to/), [2](https://reedstreams.st/) - Stream Aggregator / [Mirrors](https://reedstreams.link/) / [Discord](https://discord.gg/fGfgxcnXUv)
 * [xyzstreams](https://xyzstreams.st/)
-* [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/), [3](https://www.futbol-x.sryze.cc/) - Live Events / [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
+* [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/) - Live Events / [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
 * [Sportsurge](https://v2.sportsurge.net/)
 * [⁠Matchora](https://matchora.to/)
 * [TotalSportek](https://total-sportekk.st/) or [Sportsurge.st](https://ww1.sportsurge.st/) / [Discord](https://discord.com/invite/mdEsarNMyF)
@@ -190,7 +191,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [SportOnTV](https://sportontv.click/) / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [⁠FalconStreams](https://falconstreams.app/) / [Discord](https://discord.gg/FPgKwtXcYV)
 * [CricHD](https://crichd.at/)
-* [⁠VenueVault](https://venuevault.live/) / [Discord](https://discord.gg/QfaRFbQTPW)
 * [TheTVApp](https://thetvapp.plus/)
 * [Reedsports](https://reedstreams.to/)
 * [MainPortal66](https://mainportal66.com/)
