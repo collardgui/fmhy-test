@@ -41,7 +41,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 ## ▷ Streaming
 
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
-* [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
 * [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
@@ -55,6 +54,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [1jour1film0626](https://1jour1film0926.cyou/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
+* [⁠FlixVison](https://flixvision.xyz/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integrale.com/) - Movies / TV / Anime
 * [flemmix](https://flemmix.party/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
 * [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
@@ -163,16 +163,16 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [AURA Sports](https://aurasports.xyz/) / [Discord](https://discord.gg/NPuBAJZy7Y)
 * [⁠StreamFree](https://streamfree.top/), [2](https://strmfree.st/) / [Discord](https://discord.gg/XkkAQ2PEDz)
+* [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
 * [Cinevid](https://cinevid.st/events)
-* [BINTV](https://www.bintv.cc/), [2](https://cosectv.com/) / [Status](https://www.bintv.link/) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
+* [BINTV](https://www.bintv.cc/) / [Status](https://www.bintv.link/) / [Discord](https://discord.com/invite/fp3EQjFAJQ)
 * [⁠Futbol-X](https://www.futbol-x.xyz/), [2](https://www.futbol-x.top/) - Live Events / [Mirrors](https://futxtv.indevs.in/) / [Discord](https://discord.gg/UzHzerb6XY)
 * [Watch Footy](https://watchfooty.st/) / [Mirrors](https://wfty.link/)
 * [NTV](https://ntv.cx/), [2](https://ntvs.cx/) / [Discord](https://discord.gg/uY3ud5gcpW)
 * [LiveTV](https://livetv.sx/enx/)
-* [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/)
 * [StreamEast](https://streameast.ga/), [2](https://streameast.ph/), [3](https://www.streameast.cf/), [4](https://www.streameast.ch/), [5](https://v2.streameast.ga/), [6](https://www.streameast.fi/) / [Status](https://status.streamea.st/) / [Mirrors](https://v5.gostreameast.link/) / [Telegram](https://t.me/streameastmirror)
 * [DaddyLiveHD](https://daddylive.mov/), [2](https://daddylive.app/), [3](https://daddylive.li/) / [Mirrors](https://rentry.co/daddylivehd) / [Telegram](https://t.me/addlist/khVpZrgJToIxNTJl) / [Discord](https://discord.gg/qc4jksxk7a)
 * [Reedstreams](https://reedstreams.to/), [2](https://reedstreams.st/) - Stream Aggregator / [Mirrors](https://reedstreams.link/) / [Discord](https://discord.gg/fGfgxcnXUv)
