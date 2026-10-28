@@ -122,7 +122,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
 * [⁠TVNow](https://tvnow.st/) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
-* [DamiTV](https://damitv.st/livetv) or [90minutes](https://www.90minutes.pro/) - TV / Sports
+* [DamiTV](https://damitv.st/livetv) or [90minutes](https://www.90minutes.pro/) - TV / Sports / [Discord](https://discord.gg/SyUrxKykh)
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
 * [⁠FreeTVGarden](https://freetvgarden.com/) - TV / Sports / Globe Style
 * [Watchott Live](https://iptv.watchott.org/) - TV / Sports / PW: `FREE-MEDIA`
@@ -154,7 +154,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 
 * ↪️ **[Sports Calendars / Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25BA_sports)**
 * ⭐ **[TimStreams](https://timst.top//)** - Live Events / [Discord](https://discord.gg/fTt4jKWM3u)
-* ⭐ **[Streamed](https://streamed.pk/)**, [2](https://streamed.st/) / [Mirrors](https://strmd.link/) / [Discord](https://discord.gg/KHC4xTYZgv)
 * ⭐ **[StreamCorner](https://streamcorner.st/)**, [2](https://streamcorner.foo/), [3](https://streamcorner.cloud/), [4](https://streamcorner.fun/) / [Status](https://beacons.ai/streamcorner) / [Discord](http://discord.gg/vV6rRFtWhW)
 * ⭐ **[PPV.ST](https://ppv.st/)**, [2](https://ppv.tj), [3](https://ppv.rw/), [4](https://ppv.ms/), [5](https://ppv.bi/), [6](https://ppvs.pk/) - Live Events / [Mirrors](https://mirrors.st/) / [Discord](https://ppv.to/discord)
 * ⭐ **[zlive](https://zlive.st/)**
@@ -163,7 +162,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [AURA Sports](https://aurasports.xyz/) / [Discord](https://discord.gg/NPuBAJZy7Y)
 * [⁠StreamFree](https://streamfree.top/), [2](https://strmfree.st/) / [Discord](https://discord.gg/XkkAQ2PEDz)
-* [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/)
+* [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/) / [Discord](https://discord.gg/SyUrxKykh)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [RoxieStreams](https://roxiestreams.su/), [2](https://roxiestreams.info/), [3](https://roxiestreams.biz/) / [Status](https://roxiestreams.cc/) / [Discord](https://discord.gg/NCkz2YNKSE)
@@ -192,7 +191,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Rerace](https://www.rerace.net/sports/)
 * [Reedsports](https://reedstreams.to/)
 * [MainPortal66](https://mainportal66.com/)
-* [⁠FCTV33](https://www.fctv33hd.uno/), [2](https://emmau680.driveraudiencej2zeu49.sbs/) / [Telegram](https://t.me/madplay77_b)
+* [⁠FCTV33](https://www.fctv33go.hair/), [2](https://emmau680.driveraudiencej2zeu49.sbs/) / [Telegram](https://t.me/madplay77_b)
 * [VIP Box Sports](https://vipleague.me/home), [2](https://olympicweb.me/home), [3](https://fbstream.is/) / [Mirrors](https://rentry.co/vipbox-mirrors)
 * [FawaNews](http://www.fawanews.sc/)
 * [Baked.live](https://baked.live/) - MMA / Wrestling / [Discord](https://discord.com/invite/baked)
