@@ -40,13 +40,13 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 
 ## ▷ Streaming
 
+* ⭐ **[⁠FlixVison](https://flixvision.xyz/)** - Movies / TV / Anime
 * ⭐ **[OpenFlix](https://openflix.pro/)** - Movies / TV / Anime
 * [yablom](https://pirvab.com/) - Movies / TV / Anime
-* [French Stream](https://fs27.lol/) - Movies / TV / Anime / [Status](https://fstream.info/)
+* [French Stream](https://fs27.lol/), [2](https://fsurl.top/) - Movies / TV / Anime / [Status](https://fstream.info/)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
-* [dulourd](https://www.dulourd.boo/) - Movies / TV
-* [frembed](https://frembed.surf/) - Movies / TV / Anime / Dub
+* [frembed](https://frembed.uno/) - Movies / TV / Anime / Dub
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
 * [Ciné-Bis-Art](https://humungus-cinebisart.blogspot.com/) - Movies / Requires Sign-Up
@@ -54,7 +54,6 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [TF1](https://www.tf1.fr/) - Live TV / Movies / TV / Anime / Requires French VPN for Some Content
 * [1jour1film0626](https://1jour1film0926.cyou/) - Movies / TV / Anime
 * [myfluneo](https://myfluneo.eu/) - Movies / TV / Anime
-* [⁠FlixVison](https://flixvision.xyz/) - Movies / TV / Anime
 * [⁠streaming-integrale](https://streaming-integrale.com/) - Movies / TV / Anime
 * [flemmix](https://flemmix.party/) - Movies / TV / Anime / [Mirrors](https://ww1.wiflix-adresses.fun/) / [Telegram](https://t.me/flemmixwiflix)
 * [cinelibre](https://cinelibre.fr/) - Free w/ Ads Aggregator
@@ -158,9 +157,9 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[⁠StreamFree](https://strmfree.pk/)**, [2](https://strmfree.st/), [3](https://streamfree.top/) / [Mirrors](https://strmfree.link/) / [Discord](https://discord.gg/XkkAQ2PEDz)
 * ⭐ **[PPV.ST](https://ppv.st/)**, [2](https://ppv.tj), [3](https://ppv.rw/), [4](https://ppv.ms/), [5](https://ppv.bi/), [6](https://ppvs.pk/), [7](https://ppv.ug/) - Live Events / [Mirrors](https://mirrors.st/) / [Discord](https://ppv.st/discord)
 * ⭐ **[zlive](https://zlive.st/)**
+* ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * ⭐ **[StreamSports99](https://streamsports99.ru)** / [Mirrors](https://streamsports99.website/) / [Bypass Blocks](https://streamsports99.su/vpns) / [Discord](https://discord.gg/sUwU528aRn)
 * ⭐ **[DaddyLive](https://dlive.sx/)**, [2](https://daddylive.pk/) / [Telegram](https://t.me/+8uBUT1-0B741NTll) / [Discord](https://discord.gg/eJs8FRqt7G)
-* ⭐ **[SportsBite](https://sportsbite.org/)**, [2](https://sportsbite.org/) / [Telegram](https://t.me/+Zo7CoigxqRczMjRk) / [Discord](https://discord.gg/Qg7uRXWAhU)
 * [AURA Sports](https://aurasports.xyz/) / [Discord](https://discord.gg/NPuBAJZy7Y)
 * [DamiTV](https://damitv.st/) or [90minutes](https://www.90minutes.pro/) / [Discord](https://discord.gg/SyUrxKykh)
 * [WatchSports(su)](https://watchsports.su/)
