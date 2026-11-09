@@ -47,6 +47,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [⁠Purstream](https://purstream.wiki/) - Movies / TV / Anime
 * [Aether](https://aether.ist/), [2](https://aether.cx/) - Movies / TV / Anime / Auto-Next / [Extensions](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/movie-web-sources.md) / [Discord](https://discord.gg/MadMF7xb5q)
 * [frembed](https://frembed.uno/) - Movies / TV / Anime / Dub
+* [dulourd](https://www.dulourd.boo/) - Movies / TV / Geoblocked
 * [⁠Bowd](https://bowdtv.com/) - Movies / TV / Live TV
 * [Paradise lost.666](https://mfp666.blogspot.com/) - Classic French Movies / TV / Music
 * [Film à Revoir](https://filmarevoirnad.blogspot.com/) - Classic French Movies
