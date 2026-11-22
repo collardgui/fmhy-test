@@ -122,6 +122,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Live24](https://livelive24.com/), [2](https://livelive24.st/) - TV / Sports
 * [1TUbe](https://www.1tube.org/live-tv) - TV / Sports
 * [⁠TVNow](https://tvnow.st/) - TV / Sports
+* [⁠Matchora](https://matchora.to/channels) - TV / Sports
 * [Xumo Play](https://play.xumo.com/networks) - TV / US Only
 * [DamiTV](https://damitv.st/livetv) or [OnDemand](https://ondemand.st/), [2](https://www.90minutes.pro/), [3](https://ondemand.to) - TV / Sports / [Discord](https://discord.gg/SyUrxKykh)
 * [Pluto](https://pluto.tv/live-tv), [2](https://app-lgwebos.pluto.tv/live-tv) - TV / Sports / US Only
@@ -163,6 +164,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * ⭐ **[DaddyLive](https://dlive.sx/)**, [2](https://daddylive.pk/) / [Telegram](https://t.me/+8uBUT1-0B741NTll)
 * [AuraSports](https://aurasports.cfd/), [2](https://aurasports.xyz/) / [Discord](https://discord.gg/NPuBAJZy7Y)
 * [DamiTV](https://damitv.st/livetv) or [OnDemand](https://ondemand.st/), [2](https://www.90minutes.pro/), [3](https://ondemand.to) / [Discord](https://discord.gg/SyUrxKykh)
+* [⁠Matchora](https://matchora.to/)
 * [WatchSports(su)](https://watchsports.su/)
 * [Strumyk](https://strumyk.pk/) or [Strims24](https://strims24.st/) / [Status](https://strumyk.domains/)
 * [Cinevid](https://cinevid.sbs/events) / [Status](https://cinevid.link/)
@@ -176,14 +178,13 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Reedstreams](https://reedstreams.to/), [2](https://reedstreams.st/) - Stream Aggregator / [Mirrors](https://reedstreams.link/)
 * [xyzstreams](https://xyzstreams.st/)
 * [Sportsurge](https://v2.sportsurge.net/)
-* [⁠Matchora](https://matchora.to/)
 * [TotalSportek](https://totalsport-ek.st/) or [Sportsurge.st](https://sportsurges.st/) / [Discord](https://discord.com/invite/mdEsarNMyF)
 * [Tap4Sport](https://tap4sport.st/), [2](https://tap4sport.ci/), [3](https://tap4sport.pw/) / [Status](http://tap4sport.link/)
 * [⁠CMVTV](https://cmvxd.lovable.app/) / [Status](https://cmvwd.lovable.app/) / [Telegram](https://t.me/cricketmemesverse)
 * [⁠Fantastic Soda](https://fantasticsoda.com/)
 * [FSL](https://freestreams-live1h.pk/) / [Discord](https://discord.gg/eXXJzDPchU)
 * [⁠Streami](https://streamic.st/) / [Status](https://rentry.co/Streami)
-* [SportOnTV](https://sportontv.click/) / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
+* [SportOnTV](https://sportontv.stream/) / [Discord](https://discord.gg/YhQPSSMps2) / [Mirrors](https://sotproxy.ext.io)
 * [⁠FalconStreams](https://falconstreams.app/) / [Discord](https://discord.gg/FPgKwtXcYV)
 * [CricHD](https://crichd.at/)
 * [TheTVApp](https://thetvapp.plus/)
@@ -200,7 +201,7 @@ Source: [FMHY Non-Eng wiki](https://github.com/fmhy/FMHY/wiki/Non-Eng)
 * [Pitsport](https://pitsport.st/) - Motorsports
 * [RacingLap](https://racinglap.net/) - Motorsports
 * [OvertakeFans](https://overtakefans.com/) - Motorsports
-* [FreeF1](https://freef1-live.vercel.app/) - Motorsports
+* [FreeF1](https://freef1-live.vercel.app/) - Motorsports / [Discord](https://discord.com/invite/KYXHCAzhN4)
 * [F1 Live](https://flive.dpdns.org/) - Motorsports
 * [NontonGP](https://esp32.nontonx.com/) - Motorcycle Racing
 * [r/rugbystreams](https://www.reddit.com/r/rugbystreams/) - Rugby
